@@ -112,6 +112,25 @@ List some test framework in java. What’s a mock ? stub ? Why we need mock when
 
 What’s TDD?
 
+## Oracle 
+What’s DML? DDL? DCL? given examples fro each one
+
+How many ways to export /import data from database ? what’s difference ?
+
+What’s a table space ?
+
+What’a a procedure? advantages & disadvantages to have a procedure?  
+
+What’s a trigger? how to create a trigger? 
+
+How to migrate the data from one DB to another DB? Do you know some tools to do that ?
+
+What’s the difference between inner join and outer join ? give some examples.
+
+What’s a partitioning ? List the types of the partitioning.
+
+Share some experience about the SQL tuning 
+
 ## Others
 
 Did you do the code review in your previous project ? 
